@@ -6,9 +6,12 @@
 Altas das doenças epidêmicas de veiculação para o Município de Vitória | Espírito Santo | Brasil
 
 ## O Site
-Este site foi criado com a finalidade de divulgar a pesquisa: “Sistemas de Informações Geográficas aplicada à saúde coletiva: mapeamento das doenças epidêmicas de veiculação hídrica, no Município de Vitória-ES | Brasil”, desenvolvida no ano de 2006 pelo graduando Rafael Dias de Almeida, do curso de Geografia da Universidade Federal do Espírito Santo – UFES, orientado pelo Prof. Dr.Alexandre Rosa dos Santos com a colaboração dos Professores  MS. Maurício Sogame e MS. Paulo César Scarin, ambos do Departamento de Geografia da UFES.
+Este site foi criado com a finalidade de divulgar a pesquisa: **“Sistemas de Informações Geográficas aplicada à saúde coletiva: mapeamento das doenças epidêmicas de veiculação hídrica, no Município de Vitória-ES | Brasil”**, desenvolvida no ano de 2006 pelo graduando **Rafael Dias de Almeida**, do curso de Geografia da Universidade Federal do Espírito Santo – UFES, orientado pelo Prof. Dr.Alexandre Rosa dos Santos com a colaboração dos Professores  MS. Maurício Sogame e MS. Paulo César Scarin, ambos do Departamento de Geografia da UFES.
 
 A pesquisa recebeu apoio, por meio de bolsa de iniciação cientifica, concedido pelo Fundo Municipal de Apoio à Ciência e Tecnologia do Município de Vitória - FACITEC que tem por finalidade propiciar recursos financeiros a projetos e programas de desenvolvimento científico e tecnológicos de interesse do Município de Vitória.
+
+> [!WARNING]
+> Site estático desenvolvido com HTML4. Mapas criados em ArcGis.
 
 ## Resumo
 
