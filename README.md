@@ -10,7 +10,6 @@ Este site foi criado com a finalidade de divulgar a pesquisa: **“Sistemas de I
 
 A pesquisa recebeu apoio, por meio de bolsa de iniciação cientifica, concedido pelo Fundo Municipal de Apoio à Ciência e Tecnologia do Município de Vitória - FACITEC que tem por finalidade propiciar recursos financeiros a projetos e programas de desenvolvimento científico e tecnológicos de interesse do Município de Vitória.
 
-https://github.com/rafaeldgeo/projeto-adovh/blob/main/imagens/imagem_site.jpg
 > [!WARNING]
 > Site estático desenvolvido com HTML4. Mapas criados em ArcGis.
 
